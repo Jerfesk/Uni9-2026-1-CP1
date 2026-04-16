@@ -1,0 +1,27 @@
+h2 {
+    color: #00274D;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+h1 {
+    color: #e73241;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    color: #00274D;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: #95e384;
+}
